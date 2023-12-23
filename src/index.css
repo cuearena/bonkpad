@@ -1,0 +1,22 @@
+body {
+  margin: 0;
+
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+
+@font-face {
+  font-family: "Squares Bold";
+  src: url("Berlin\ Sans\ FB\ Demi\ Bold.ttf");
+  }
+
+
+@font-face {
+  font-family: "Berlin";
+  src: url("Berlin\ Sans\ FB\ Regular.ttf");
+  }
